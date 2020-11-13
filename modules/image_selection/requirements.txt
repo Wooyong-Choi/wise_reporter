@@ -1,7 +1,7 @@
 urllib3==1.21.1
 gdown==3.8.3
 beautifulsoup4==4.6.0
-tensorflow-gpu==1.14.0
+tensorflow-gpu==2.3.1
 tensorflow-hub==0.5.0
 tf-sentencepiece==0.1.83
 numpy==1.16.5
