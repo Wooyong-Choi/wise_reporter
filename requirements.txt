@@ -18,4 +18,4 @@ clarifai==2.0.21
 watson-developer-cloud==0.25.2
 Jinja2==2.9.6
 boto3==1.4.4
-Pillow==2.9.0
+Pillow==8.2.0
